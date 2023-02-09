@@ -5,3 +5,6 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me edvardschoyen@gmail.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecschoye&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecschoye&theme=tokyonight)
