@@ -1,4 +1,4 @@
-### Hi there 👋 I’m @ecschoye
+### Hi there 👋 I’m @ecschoye and I study Computer Science at NTNU
 ![](https://komarev.com/ghpvc/?username=ecschoye)
 
 - 🌱 I’m currently learning Java, Python, SQL, C and more!
