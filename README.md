@@ -9,4 +9,4 @@
 ![GitHub stats](https://github-readme-stats-jet-seven-49.vercel.app/api?username=ecschoye&show_icons=false&theme=nord)
 
 
-![Top Langs](https://github-readme-stats-jet-seven-49.vercel.app/api/top-langs/?username=ecschoye&theme=nord)
+![Top Langs](https://github-readme-stats-jet-seven-49.vercel.app/api/top-langs/?username=ecschoye&theme=nord&hide=jupyter%20notebook)
