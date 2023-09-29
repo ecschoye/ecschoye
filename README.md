@@ -10,5 +10,3 @@
 
 
 ![Top Langs](https://github-readme-stats-jet-seven-49.vercel.app/api/top-langs/?username=ecschoye&size_weight=0.5&count_weight=0.5&layout=donut&theme=nord&hide=jupyter%20notebook&langs_count=6)
-
-![Wakatime](https://github-readme-stats-jet-seven-49.vercel.app/api/wakatime?username=ecschoye&theme=nord)
