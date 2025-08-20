@@ -2,7 +2,7 @@
 
 🎓 MSc Computer Science student at NTNU (specializing in AI & Data Science)  
 💡 Interested in data-driven systems, AI, and backend development  
-📍 Trondheim, Norway  
+📍 Oslo | Trondheim  
 
 ---
 
