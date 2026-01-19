@@ -1,8 +1,9 @@
 ### Hi there 👋 I’m Edvard (@ecschoye)
 
 🎓 MSc Computer Science student at NTNU (specializing in AI & Data Science)  
+📝 Writing my thesis at University of Waterloo
 💡 Interested in data-driven systems, AI, and backend development  
-📍 Oslo | Trondheim  
+📍 Oslo | Waterloo  
 
 ---
 
